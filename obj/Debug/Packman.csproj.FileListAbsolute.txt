@@ -1,0 +1,8 @@
+C:\Users\user\Desktop\код\c#\Packman\bin\Debug\Packman.exe.config
+C:\Users\user\Desktop\код\c#\Packman\bin\Debug\Packman.exe
+C:\Users\user\Desktop\код\c#\Packman\bin\Debug\Packman.pdb
+C:\Users\user\Desktop\код\c#\Packman\obj\Debug\Packman.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\код\c#\Packman\obj\Debug\Packman.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\Desktop\код\c#\Packman\obj\Debug\Packman.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\код\c#\Packman\obj\Debug\Packman.exe
+C:\Users\user\Desktop\код\c#\Packman\obj\Debug\Packman.pdb
